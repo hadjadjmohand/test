@@ -15,7 +15,7 @@
         <asp:ContentPlaceHolder runat="server" ID="FeaturedContent" />
         <section class="content-wrapper main-content clear-fix">
             <asp:ContentPlaceHolder runat="server" ID="MainContent" />
-        </section>
+        </section>fffffffff
         <friendlyUrls:ViewSwitcher runat="server" />
     </div>
     </form>
